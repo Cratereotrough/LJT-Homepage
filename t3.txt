@@ -1,0 +1,4 @@
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
